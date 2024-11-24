@@ -1,14 +1,14 @@
+<h1><img width="200px" alt="Sass" src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" /></h1>
+
 # Sass & SCSS Project
 
 This repository contains advanced tasks focused on Sass and SCSS concepts. These tasks cover key features of Sass such as variables, nested rules, mixins, inheritance, loops, and media queries.
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Learning Objectives](#learning-objectives)
-- [Tasks Overview](#tasks-overview)
-- [Usage](#usage)
+- [Sass \& SCSS Project](#sass--scss-project)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
 
 ## Description
 Sass (Syntactically Awesome Stylesheets) is a CSS preprocessor that enhances CSS with features like variables, nested rules, and functions. This project dives into these features and demonstrates their practical use through a series of tasks.
